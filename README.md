@@ -1,4 +1,4 @@
-# Pre Webpack Files
+# Webpack Files
 
 Проект з власним конфігом Webpack, в якому реалізовано:
 
@@ -7,3 +7,10 @@
  - робота із зображеннями
  - CSS стилі
  - оптимізована робота з бібліотеками
+ - devserver
+ - зовнішні CSS
+ - препроцесори
+ - typescript
+ - babel
+ - eslint
+ - analyzer
